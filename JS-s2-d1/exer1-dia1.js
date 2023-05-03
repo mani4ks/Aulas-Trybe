@@ -1,5 +1,5 @@
-let a = 10;
-let b = 5;
+let a = 35;
+let b = 15;
 
 console.log('Soma: ' + (a + b));
 console.log('Subtração: ' + (a - b));
