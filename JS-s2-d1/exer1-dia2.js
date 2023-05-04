@@ -61,3 +61,45 @@ console.log(numeroMaior); */
 
 //Parte 6//
 
+/* let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+let resultado = 0;
+
+for (let index = 0; index < numbers.length; index += 1) {
+  if (numbers[index] % 2 !== 0) {
+    resultado += 0;
+  }
+}
+
+if (resultado === 0) {
+  console.log('nem um valor impar encontrado');
+} else {
+  console.log(resultado);
+} */
+
+//Parte 7//
+
+/* let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+let menorNumero = numbers[0];
+
+for (let index = 1; index < numbers.length; index += 1) {
+  if (numbers[index] < menorNumero) {
+    menorNumero = numbers[index];
+  }
+}
+
+console.log(menorNumero); */
+
+//Parte 8//
+
+/* let numeros = [];
+
+for (let index = 1; index <= 25; index +=1) {
+  numeros.push(index);
+}
+
+console.log(numeros);
+
+for (let index = 0; index < numeros.length; index += 1) {
+  console.log(numeros[index] / 2);
+} */
+
